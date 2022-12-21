@@ -1,0 +1,1 @@
+>  8 | import { ReactComponent as CloseSvg } from '~icons/close.svg'
