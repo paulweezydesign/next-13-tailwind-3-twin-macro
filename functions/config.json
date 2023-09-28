@@ -3,5 +3,10 @@
         "name": "getAllKittens",
         "private": false,
         "disable_arg_logs": true
+    },
+    {
+        "name": "getKittens",
+        "private": false,
+        "disable_arg_logs": true
     }
 ]
